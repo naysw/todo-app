@@ -1,7 +1,12 @@
 {
-  "name": "vtech-challenge",
+  "name": "todo-app",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Nay Soe Win",
+    "email": "naysoewin9@gmail.com",
+    "url": "https://github.com/naysw"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",

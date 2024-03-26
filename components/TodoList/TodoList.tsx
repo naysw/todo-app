@@ -75,7 +75,7 @@ const TodoList: React.FC<Props> = ({
             </div>
           ) : (
             <div className="text-center text-gray-400">
-              No result. Create a new one instead!”
+              No result. Create a new one instead!
             </div>
           )}
         </div>
